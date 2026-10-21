@@ -28,7 +28,7 @@ import {
 } from 'lucide-react'
 import VideoTestimonials from '@/components/VideoTestimonials'
 
-const OWNER_PHONE = '56948886381'
+const OWNER_PHONE = '56948886391'
 
 const packs = [
   {
@@ -2274,7 +2274,7 @@ export default function Page() {
               </p>
 
               <p className="mt-3 flex items-center justify-center gap-1.5 text-center text-xs text-white/60">
-                <Phone size={12} className="text-[#d4af37]" /> +56 9 4888 6381
+                <Phone size={12} className="text-[#d4af37]" /> +56 9 4888 6391
               </p>
             </aside>
           </div>
