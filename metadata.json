@@ -1,0 +1,7 @@
+{
+  "name": "MR Bombastik",
+  "description": "Coctelería profesional, alta banquetería de autor y producción integral de eventos exclusivos en Santiago.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
